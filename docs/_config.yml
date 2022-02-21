@@ -13,16 +13,18 @@ nav:
         path: /
   - title: Kadaster specifieke documentatie
     subnav:
+      - title: Inleiding
+        path: /index
       - title: Installatie
-        path: installatie
+        path: /installatie
       - title: Begrippen
-        path: begrippen
+        path: /begrippen
       - title: Handreikingen
-        path: handreikingen
+        path: /handreikingen
       - title: Wetenswaardigheden en specials
-        path: wetenswaardigheden-en-specials
+        path: /wetenswaardigheden-en-specials
       - title: Veel voorkomende foutens
-        path: veel-voorkomende-fouten
+        path: /veel-voorkomende-fouten
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
