@@ -29,7 +29,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
   
-remote_theme: melsk-r/Imvertor-jekyll-theme
+remote_theme: VNG-Realisatie/jekyll-theme-imvertor
 
 github: melsk-r/Kadaster
 theme: jekyll-theme-time-machine
